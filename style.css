@@ -90,3 +90,13 @@ h3 {
 #app-image {
   width: 500px;
 }
+
+@media (max-width: 576px) {
+  .row {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+}
