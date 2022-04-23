@@ -99,4 +99,9 @@ h3 {
   h1 {
     font-size: 60px;
   }
+
+  .content-title {
+    font-size: 35px;
+    font-weight: bold;
+  }
 }
